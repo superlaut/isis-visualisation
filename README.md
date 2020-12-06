@@ -1,2 +1,7 @@
-# isis-visualisation
-This repository contains a notebook with an EDA on all Guardian articles on ISIS scraped from their API.
+# EDA and Visualisation ISIS 
+This notebook combines a carefully compiled and comprehensive list of all IS attacks from 2013 until 2017 with all articles published in the Guardian on IS from 2013 until 2017. The Guardian is taken as a proxy for media coverage as it is widely read (30M daily readers) and has all of its content available via an API. Furthermore, the Guardian was found most trusted and most-read of the UK's "quality newsbrands" in a large study in 2017.
+
+First this notebook explores the comprehensive and almost exhaustive data on all IS attacks in the above timespan, looking at the number of casualties, the medium of attack, the type of target et cetera. It then explores the geographical features of the attacks, and subsequently an analysis of the textual summaries and motives of the attacks is carried out. Lastly, the articles in the Guardian on IS are analysed and some link is sought between the coverage of terrorism and particular features of the terrorist attacks. The focus of this notebook is mostly on analysis of the IS attacks. In short, I attempt to give an indication of an answer the following Research Questions:
+
+* How and where did the Islamic State operate?
+* How were attacks perpetrated by IS covered in the media?
